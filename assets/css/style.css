@@ -16,6 +16,7 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     background: none;
+    
 
 }
 
@@ -32,6 +33,7 @@ body {
      padding-left: 20px;
      padding-right: 10px;
      margin: auto;
+
  }
 
 h1, h2, h3, h4, h5, h6, .name {
@@ -151,6 +153,5 @@ label {font-size: 13px;}
 
 .footer p {
     font-size: 8px;
-    /* line-height: 60px; */
     margin: 0;
 }
